@@ -1,5 +1,6 @@
 {
-    "name": "gmostafa/php-graphql-client",
+    "name": "benjamincimerman/php-graphql-client",
+    "version": "1.0",
     "description": "GraphQL client and query builder.",
     "type": "library",
     "license": "MIT",
